@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "echo",
+  "base_artist": "higma",
+  "createdAt": "2026-02-09T12:47:47.977642Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Regional Echo",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/01_Regional_Echo_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Echo",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Echo_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Echo",
+      "artist": "Fettes Brot",
+      "has_synced": true,
+      "path": "select/03_Echo_Fettes_Brot.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Echo Beach",
+      "artist": "Martha & The Muffins",
+      "has_synced": true,
+      "path": "select/04_Echo_Beach_Martha_&_The_Muffins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Grain of Salt (Big Echo Version)",
+      "artist": "The Morning Benders",
+      "has_synced": true,
+      "path": "select/05_Grain_of_Salt_(Big_Echo_Version)_The_Morning_Benders.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Echo Party",
+      "artist": "Sylvan Esso",
+      "has_synced": true,
+      "path": "select/06_Echo_Party_Sylvan_Esso.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Raising Your Voice... Trying to Stop an Echo",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/07_Raising_Your_Voice..._Trying_to_Stop_an_Echo_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Raising Your Voice... Trying to Stop an Echo (2016 Remaster)",
+      "artist": "Hammock",
+      "has_synced": false,
+      "path": "select/08_Raising_Your_Voice..._Trying_to_Stop_an_Echo_(2016_Remaster)_Hammock.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Echo Bass",
+      "artist": "The Verve",
+      "has_synced": true,
+      "path": "select/09_Echo_Bass_The_Verve.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Echo",
+      "artist": "shxde",
+      "has_synced": false,
+      "path": "select/10_Echo_shxde.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Echo Location",
+      "artist": "Dean",
+      "has_synced": false,
+      "path": "select/11_Echo_Location_Dean.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "An Echo a Stain",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/12_An_Echo_a_Stain_Björk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "An Echo, A Stain",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/13_An_Echo,_A_Stain_Björk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "echo (feat. 初音ミク)",
+      "artist": "higma",
+      "has_synced": false,
+      "path": "select/pl_01_echo_(feat._初音ミク)_higma.txt"
+    }
+  ]
+}
